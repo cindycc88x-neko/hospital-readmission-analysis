@@ -48,12 +48,10 @@ This project aims to predict whether a patient will be readmitted to the hospita
 ![ROC Curve](https://github.com/cindycc88x-neko/hospital-readmission-analysis/blob/main/ROCCurve.png?raw=true)
 
 ### 🔹 Feature Importance
-![Feature Importance](https://github.com/cindycc88x-neko/hospital-readmission-analysis/blob/main/Featurelmportance.png?raw=true)
+![Feature Importance](https://github.com/cindycc88x-neko/hospital-readmission-analysis/blob/main/FeatureImportance.png?raw=true)
 
 ### 🔹 Confusion Matrix
 ![Confusion Matrix](https://github.com/cindycc88x-neko/hospital-readmission-analysis/blob/main/ConfusionMatrix.png?raw=true)
-
----
 
 ## 💡 Key Insights
 - Patients with more inpatient visits are more likely to be readmitted
